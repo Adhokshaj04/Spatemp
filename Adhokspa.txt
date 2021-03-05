@@ -1,1 +1,2 @@
 First Spa command in Github
+Changes made
